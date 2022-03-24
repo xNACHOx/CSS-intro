@@ -1,12 +1,20 @@
 body {
-    background-color: purple;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  text-align: center;
+  font-size: 4em;
 }
-.mmmcake {background-color: sandybrown
-    ;}
-.First_Headline {
-    color: springgreen
-    ;}
+
+
+
+.First_Headline 
+
 .Sub_Head {color: rgb(182, 207, 40)
     ;}
-.Homer_Simpson_celebrating {color: 
-    rgb(0, 4, 255);}
+
+.cloud_background {
+  width: 100%;
+}
+
+.cloud_background {
+  display: flex;
+}
