@@ -1,3 +1,5 @@
+
+
 body {
   font-family: 'Montserrat Subrayada', sans-serif;
   text-align: center;
@@ -5,16 +7,9 @@ body {
 }
 
 
-
-.First_Headline 
-
-.Sub_Head {color: rgb(182, 207, 40)
-    ;}
-
-.cloud_background {
+.holo_clouds {
   width: 100%;
-}
-
-.cloud_background {
   display: flex;
+  background-image: url(../img/holo_clouds.jpg);
+  flex-direction: column;
 }
