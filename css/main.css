@@ -1,5 +1,5 @@
-.container {
-  background: 
+.bg-blend {
+  background:
     linear-gradient(purple 0%, red 90%), 
     linear-gradient(to right, purple 0%, yellow 90%), 
     url("image.jpg") 30px,
@@ -10,7 +10,7 @@
 body {
   font-family: 'Montserrat Subrayada', sans-serif;
   text-align: center;
-  font-size: 4em;
+  font-size: 8em;
 }
 .vamp {
   color: #92a5de;
@@ -28,7 +28,8 @@ body {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  box-shadow: 15px 15px 0 0 rgb(64, 0, 212);
+  box-shadow: 15px 15px 0 0 rgb(64, 0, 212)
 }
 
 @media (min-width: 400px) and (max-width: 626px) {}
+
